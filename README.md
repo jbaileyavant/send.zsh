@@ -1,5 +1,7 @@
 # ZSH send plugin
 
+Zsh is awesome.
+
 The following zsh plugin enables a really useful git shortcut:
 
 ```bash
